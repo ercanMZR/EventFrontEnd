@@ -18,7 +18,7 @@ function Courses({courses,removeCourse}) {
             removeOneCourse={removeCourse}
           />
         );
-        //   course={course}
+        
       })}
     </div>
   </div>
