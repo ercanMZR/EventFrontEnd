@@ -5,5 +5,5 @@
 * Dataların çekilmesi ve Loading işlemi yapıldı.
 * Kurs verileri çekildi ve silme işlemi yapıldı.
 * Css düzenlemeleri yapıldı.
-* Kursları silme işlemi yapıldı.
+* Kursları yenileme işlemi yapıldı.
   
